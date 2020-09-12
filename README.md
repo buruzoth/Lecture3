@@ -1,4 +1,4 @@
-# Lecture3
+## Lecture3
 Update this
 Random File
 My name is Buruzoth Balasubramaniam
