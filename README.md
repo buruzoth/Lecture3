@@ -25,3 +25,5 @@ This is another test
 
 ![alt text](Https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "THis is a test")
 
+[code](https://github.com/buruzoth/Lecture3/tree/master/code/)
+
